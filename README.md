@@ -8,27 +8,25 @@ The Data type class library. Composes the Data and DataError libraries.
 
 ## Documentation
 
-- Refer the [Library](https://docs.diligentsoftware.org/data-1/documentation) homepage.
+- Refer the [Library](https://docs.diligentsoftware.org/data-1) homepage.
 
 ## Contributing
 
 ### Donate
 
 Donations support continuous improvement and maintenance. The aim is a reliable,
-integrable, and endurable Data library. Make a donation at the 
-project's collective page: https://opencollective.com/data. 
-One-time and recurring donations are available at $1, $2, $4, $8, and $16. 
-Greatly appreciated.
+integrable, and endurable Data library. Make a donation at the project's 
+collective page: https://opencollective.com/data. One-time and recurring 
+donations are available at $1, $2, $4, $8, and $16. Greatly appreciated.
 
 ### Report Bugs
 
-Refer the [Bug Reporting Procedure](https://github.com/Diligent-Software-LLC/data_library/issues/1).
+- Refer the [Bug Reporting Procedure](https://github.com/Diligent-Software-LLC/data_library/issues/1).
 
 ### Fix Bugs
 
-Refer the [Bug Fixing Procedure](https://github.com/Diligent-Software-LLC/data_library/issues/2).
+- Refer the [Bug Fixing Procedure](https://github.com/Diligent-Software-LLC/data_library/issues/2).
 
 ### Improve Functionality
 
-Refer the [Improvements Procedure](https://github.com/Diligent-Software-LLC/data_library/issues/3).
-
+- Refer the [Improvements Procedure](https://github.com/Diligent-Software-LLC/data_library/issues/3).

@@ -7,16 +7,16 @@ Gem::Specification.new do |spec|
   spec.version               = DataLibrary::VERSION
   spec.authors               = ["Diligent Software LLC"]
   spec.email                 = ["diligentsoftwarellc@gmail.com"]
-  spec.summary               = %q{The Data type class library. Composes the Data and
-DataError libraries.}
-  spec.description           = %q{The Data type class library. Composes the Data and
-DataError libraries. Donations support continuous improvement and maintenance. The aim is a reliable,
-integrable, and endurable Data library. Make a donation at the
-project's collective page: https://opencollective.com/data.
-One-time and recurring donations are available at $1, $2, $4, $8, and $16.
-Greatly appreciated.}
+  spec.summary               = %q{The Data type class library. Composes the
+Data and DataError libraries.}
+  spec.description           = %q{The Data type class library. Composes the Data
+ and DataError libraries. Donations support continuous improvement and
+maintenance. The aim is a reliable, integrable, and endurable Data library.
+Make a donation at the project's collective page:
+https://opencollective.com/data. One-time and recurring donations are
+available at $1, $2, $4, $8, and $16. Greatly appreciated.}
   spec.homepage              = "https://docs.diligentsoftware.org/data"
-  spec.license               = "MIT"
+  spec.license               = "GPL-3.0-only"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.5")
 
   # Metadata

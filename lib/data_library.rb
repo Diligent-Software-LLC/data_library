@@ -7,7 +7,7 @@ require 'data_error_library'
 
 # DataLibrary.
 # @abstract
-#   The Data type class library. Composes the Data and DataError libraries..
+#   The Data type class library. Composes the Data and DataError libraries.
 class DataLibrary
 end
 

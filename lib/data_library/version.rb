@@ -3,7 +3,7 @@
 
 # DataLibrary.
 # @abstract
-#   The Data type class library. Composes the Data and DataError libraries..
+#   The Data type class library. Composes the Data and DataError libraries.
 class DataLibrary
   VERSION = '0.1.0'.freeze()
 end
