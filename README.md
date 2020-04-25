@@ -9,7 +9,7 @@ The DataType library. Organizes the DataType components.
 
 ## Documentation
 
-- Refer the Library [homepage](https://docs.diligentsoftware.org/data-1).
+- Refer the Library [homepage](https://docs.diligentsoftware.org/data).
 
 ## Contributing
 

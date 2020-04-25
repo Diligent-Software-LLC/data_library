@@ -26,7 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ad9050-a6f6-4a86-ba54-883e93c208be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_library.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585505101152</updated>
       <workItem from="1585505103383" duration="7295000" />
-      <workItem from="1587833059459" duration="2793000" />
+      <workItem from="1587833059459" duration="3078000" />
     </task>
     <task id="LOCAL-00001" summary="Many Changes&#10;&#10;Generated project files. Configured gem. Required the relevant files. Integration tested.">
       <created>1585507438378</created>
@@ -153,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587835684466</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Prepare Deployment&#10;&#10;Updated Changelog.md.">
+      <created>1587835971279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587835971279</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
         <option name="defaultSearch" value="project: Data Subsystem:{ No Subsystem } Component: Library Sprints: 4 #{Prepare Deployment}" />
@@ -182,7 +191,8 @@
     <MESSAGE value="README, Changelog&#10;&#10;Updated the README, Changelog." />
     <MESSAGE value="Setup Complete&#10;&#10;Fixed version.rb YARDocumentation. Bumped Minor Version. Formatted the Gem Specification. Updated the Gem Specification's 'email', 'summary', 'description', 'homepage', 'license', and 'changelog_uri' attributes. Updated dependencies." />
     <MESSAGE value="Development Complete&#10;&#10;Renamed data_library.rb data_type.rb. Fixed data_library_test.rb YARDocumentation. Added a .yardopts file assertion. Edited the 'require' statement in test_helper.rb. Deleted Travis CI deployment settings. Fixed README.md's Installation section. Added a .yardopts file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Renamed data_library.rb data_type.rb. Fixed data_library_test.rb YARDocumentation. Added a .yardopts file assertion. Edited the 'require' statement in test_helper.rb. Deleted Travis CI deployment settings. Fixed README.md's Installation section. Added a .yardopts file." />
+    <MESSAGE value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prepare Deployment&#10;&#10;Updated Changelog.md." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -190,10 +200,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1585505185473" />
-    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2" timestamp="1587835684225">
+    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2" timestamp="1587835971014">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587835684225" />
+    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587835971014" />
     <state width="1539" height="270" key="GridCell.Tab.0.bottom" timestamp="1587835393771">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -210,10 +220,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1539" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587835393771" />
-    <state x="443" y="250" key="Vcs.Push.Dialog.v2" timestamp="1585574273939">
+    <state x="443" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587836026537">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="443" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585574273939" />
+    <state x="443" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1587836026537" />
     <state x="435" y="235" width="816" height="550" key="find.popup" timestamp="1585507288352">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
