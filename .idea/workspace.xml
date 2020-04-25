@@ -27,10 +27,8 @@
   <component name="ChangeListManager">
     <list default="true" id="52ad9050-a6f6-4a86-ba54-883e93c208be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_library.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_library.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/data_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_library/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +44,12 @@
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZoUmfhSISnbXBoG6nOE6TXu7fX" />
@@ -64,6 +68,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="ytplugin.issueListCompactView" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mkdir artifacts" />
+      <command value="mv data_library-0.1.0.gem artifacts" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="DataLibraryTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
@@ -112,7 +123,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585505101152</updated>
-      <workItem from="1585505103383" duration="4471000" />
+      <workItem from="1585505103383" duration="7295000" />
+      <workItem from="1587833059459" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="Many Changes&#10;&#10;Generated project files. Configured gem. Required the relevant files. Integration tested.">
       <created>1585507438378</created>
@@ -121,10 +133,17 @@
       <option name="project" value="LOCAL" />
       <updated>1585507438378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README, Changelog&#10;&#10;Updated the README, Changelog.">
+      <created>1585518793051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585518793051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Data Sprints: 3 #{ Prepare Deploy} " />
+        <option name="defaultSearch" value="project: Data Subsystem:{ No Subsystem } Component: Library Sprints: 4 #{Setup } " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -132,9 +151,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Many Changes&#10;&#10;Generated project files. Configured gem. Required the relevant files. Integration tested." />
-    <option name="LAST_COMMIT_MESSAGE" value="Many Changes&#10;&#10;Generated project files. Configured gem. Required the relevant files. Integration tested." />
+    <MESSAGE value="README, Changelog&#10;&#10;Updated the README, Changelog." />
+    <option name="LAST_COMMIT_MESSAGE" value="README, Changelog&#10;&#10;Updated the README, Changelog." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -142,34 +175,42 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1585505185473" />
-    <state x="436" y="112" key="CommitChangelistDialog2" timestamp="1585518647800">
+    <state x="436" y="112" key="CommitChangelistDialog2" timestamp="1585518792518">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="436" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585518647800" />
-    <state width="1539" height="270" key="GridCell.Tab.0.bottom" timestamp="1585507173298">
+    <state x="436" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585518792518" />
+    <state width="1539" height="270" key="GridCell.Tab.0.bottom" timestamp="1587833651876">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="270" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585507173298" />
-    <state width="1539" height="270" key="GridCell.Tab.0.center" timestamp="1585507173297">
+    <state width="1539" height="270" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587833651876" />
+    <state width="1539" height="270" key="GridCell.Tab.0.center" timestamp="1587833651875">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="270" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585507173297" />
-    <state width="1539" height="270" key="GridCell.Tab.0.left" timestamp="1585507173297">
+    <state width="1539" height="270" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587833651875" />
+    <state width="1539" height="270" key="GridCell.Tab.0.left" timestamp="1587833651875">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="270" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585507173297" />
-    <state width="1539" height="270" key="GridCell.Tab.0.right" timestamp="1585507173298">
+    <state width="1539" height="270" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587833651875" />
+    <state width="1539" height="270" key="GridCell.Tab.0.right" timestamp="1587833651876">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585507173298" />
+    <state width="1539" height="270" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587833651876" />
+    <state x="443" y="250" key="Vcs.Push.Dialog.v2" timestamp="1585574273939">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="443" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585574273939" />
     <state x="435" y="235" width="816" height="550" key="find.popup" timestamp="1585507288352">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="435" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1585507288352" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1585510976692">
+    <state x="508" y="235" width="670" height="675" key="run.anything.popup" timestamp="1585574332204">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1585510976692" />
+    <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1585574332204" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587833586505">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587833586505" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_library@DataLibraryTest.rcov" NAME="DataLibraryTest Coverage Results" MODIFIED="1585507165657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_library" />

@@ -2,8 +2,8 @@
 # under the GNU General Public License, Version 3. Refer LICENSE.txt.
 
 # DataLibrary.
-# @abstract
-#   The Data type class library. Composes the Data and DataError libraries.
+# @class_description
+#   The DataType library. Organizes the DataType components.
 class DataLibrary
-  VERSION = '0.1.0'.freeze()
+  VERSION = '0.2.0'.freeze()
 end
