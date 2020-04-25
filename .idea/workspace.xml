@@ -26,12 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ad9050-a6f6-4a86-ba54-883e93c208be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_library.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_library_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="279" />
+    <option name="myElementSize" value="323" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -128,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585505101152</updated>
       <workItem from="1585505103383" duration="7295000" />
-      <workItem from="1587833059459" duration="2238000" />
+      <workItem from="1587833059459" duration="2793000" />
     </task>
     <task id="LOCAL-00001" summary="Many Changes&#10;&#10;Generated project files. Configured gem. Required the relevant files. Integration tested.">
       <created>1585507438378</created>
@@ -151,10 +146,17 @@
       <option name="project" value="LOCAL" />
       <updated>1587834575648</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Development Complete&#10;&#10;Renamed data_library.rb data_type.rb. Fixed data_library_test.rb YARDocumentation. Added a .yardopts file assertion. Edited the 'require' statement in test_helper.rb. Deleted Travis CI deployment settings. Fixed README.md's Installation section. Added a .yardopts file.">
+      <created>1587835684466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587835684466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Data Subsystem:{ No Subsystem } Component: Library Sprints: 4 #{Development} " />
+        <option name="defaultSearch" value="project: Data Subsystem:{ No Subsystem } Component: Library Sprints: 4 #{Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -179,7 +181,8 @@
     <MESSAGE value="Many Changes&#10;&#10;Generated project files. Configured gem. Required the relevant files. Integration tested." />
     <MESSAGE value="README, Changelog&#10;&#10;Updated the README, Changelog." />
     <MESSAGE value="Setup Complete&#10;&#10;Fixed version.rb YARDocumentation. Bumped Minor Version. Formatted the Gem Specification. Updated the Gem Specification's 'email', 'summary', 'description', 'homepage', 'license', and 'changelog_uri' attributes. Updated dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Fixed version.rb YARDocumentation. Bumped Minor Version. Formatted the Gem Specification. Updated the Gem Specification's 'email', 'summary', 'description', 'homepage', 'license', and 'changelog_uri' attributes. Updated dependencies." />
+    <MESSAGE value="Development Complete&#10;&#10;Renamed data_library.rb data_type.rb. Fixed data_library_test.rb YARDocumentation. Added a .yardopts file assertion. Edited the 'require' statement in test_helper.rb. Deleted Travis CI deployment settings. Fixed README.md's Installation section. Added a .yardopts file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Renamed data_library.rb data_type.rb. Fixed data_library_test.rb YARDocumentation. Added a .yardopts file assertion. Edited the 'require' statement in test_helper.rb. Deleted Travis CI deployment settings. Fixed README.md's Installation section. Added a .yardopts file." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -187,10 +190,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="443" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1585505185473" />
-    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2" timestamp="1587834575441">
+    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2" timestamp="1587835684225">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587834575441" />
+    <state x="160" y="61" width="1354" height="882" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587835684225" />
     <state width="1539" height="270" key="GridCell.Tab.0.bottom" timestamp="1587835393771">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -219,10 +222,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1587834717469" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587835433418">
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587835720927">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587835433418" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587835720927" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_library@DataLibraryTest.rcov" NAME="DataLibraryTest Coverage Results" MODIFIED="1587835390503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_library" />
