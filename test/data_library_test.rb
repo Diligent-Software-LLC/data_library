@@ -1,14 +1,14 @@
 require_relative 'test_helper'
 
 # DataLibraryTest.
-# @abstract
+# @description
 #   Tests the Data library.
 class DataLibraryTest < Minitest::Test
 
   # test_conf_doc_f_ex().
-  # @abstract
-  #   The .travis.yml, CODE_OF_CONDUCT.md, Gemfile, LICENSE.txt, and 
-  #   README.md files exist.
+  # @description
+  #   The .travis.yml, CODE_OF_CONDUCT.md, Gemfile, LICENSE.txt, README.md,
+  #   and .yardopts files exist.
   def test_conf_doc_f_ex()
 
     assert_path_exists('.travis.yml')
@@ -16,25 +16,26 @@ class DataLibraryTest < Minitest::Test
     assert_path_exists('Gemfile')
     assert_path_exists('LICENSE.txt')
     assert_path_exists('README.md')
+    assert_path_exists('.yardopts')
 
   end
 
   # test_version_declared().
-  # @abstract
+  # @description
   #   The version was declared.
   def test_version_declared()
-    refute_nil(::DataLibrary::VERSION)
+    refute_nil(DataLibrary::VERSION)
   end
 
   # setup().
-  # @abstract
+  # @description
   #   Set fixtures.
   def setup()
     @x1_data_0 = {}
   end
 
   # test_raise_error().
-  # @abstract
+  # @description
   #   Raising an error.
   def test_raise_error()
 
@@ -48,10 +49,9 @@ class DataLibraryTest < Minitest::Test
   end
 
   # teardown().
-  # @abstract
+  # @description
   #   Cleanup.
   def teardown()
   end
 
 end
-
